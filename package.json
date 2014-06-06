@@ -1,0 +1,9 @@
+{
+  "name": "krang",
+  "description": "do i need this field?",
+  "version": "0.0.1",
+  "dependencies": {
+    "dnode": "^1.2.0",
+    "express": "^4.4.1"
+  }
+}
