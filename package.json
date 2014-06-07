@@ -4,6 +4,8 @@
   "version": "0.0.1",
   "dependencies": {
     "dnode": "^1.2.0",
-    "express": "^4.4.1"
+    "express": "^4.4.1",
+    "tape": "^2.13.2",
+    "through": "^2.3.4"
   }
 }
