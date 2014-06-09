@@ -3,8 +3,10 @@
   "description": "do i need this field?",
   "version": "0.0.1",
   "dependencies": {
+    "concat-stream": "^1.4.6",
     "dnode": "^1.2.0",
     "express": "^4.4.1",
+    "mysql": "^2.3.2",
     "tape": "^2.13.2",
     "through": "^2.3.4"
   }
